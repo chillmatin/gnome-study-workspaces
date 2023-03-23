@@ -7,9 +7,9 @@ wmctrl package should be installed. You can install it using the package manager
 
 # How to use
 
-Download or clone the script to your local machine.
-Open a terminal in the directory where you saved the script.
-Run the script using the command ./workspace-automation.sh.
+- Download or clone the script to your local machine.
+- Open a terminal in the directory where you saved the script.
+- Run the script using the command ./.study-script.sh.
 
 # Functions
 ## start-on-workspace
