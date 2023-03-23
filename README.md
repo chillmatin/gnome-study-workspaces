@@ -1,5 +1,5 @@
 # gnome-study-workspaces
-# Workspace Automation Script
+# Study Workspace Automation Script
 
 This is a Bash script that automates workspace management for Linux environments using the wmctrl package. It enables you to start applications and move them to specific workspaces. It also provides a function to gracefully close all open windows without closing the desktop environment.
 # Prerequisites
@@ -10,6 +10,8 @@ wmctrl package should be installed. You can install it using the package manager
 - Download or clone the script to your local machine.
 - Open a terminal in the directory where you saved the script.
 - Run the script using the command ./.study-script.sh.
+
+I made a keybinding to run this script: Super + Shift + S
 
 # Functions
 ## start-on-workspace
